@@ -395,8 +395,8 @@ module.exports = nativeDescription: "Українська", englishDescription: 
     False: "Хибний"
     false: "хибний"
     undefined: "невизначений"
-    null: "нуль"
-    nil: "нуль"
+    null: "порожній"
+    nil: "порожній"
     None: "Жоден"
 
   share_progress_modal:
